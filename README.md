@@ -10,6 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=bilalmalik08&label=Profile%20views&color=0e75b6&style=flat" alt="bilalmalik08" />
 </p>
 
+- 💬 Ask me about Web & App Development
+- 👨‍💻 All of my projects are available at at [My GitHub](https://github.com/BilalMalik08?tab=repositories)
+- ⚡ Fun fact: The first computer bug was an actual moth! In 1947, engineers found a moth causing issues in the Harvard Mark II computer and recorded it as the "first actual case of bug being found."
 - 📫 How to reach me: **muhammad.billal.cs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
