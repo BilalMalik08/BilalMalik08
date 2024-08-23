@@ -95,8 +95,14 @@
   </p>
 </div>
 
-<div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalmalik08&show_icons=true&locale=en&layout=compact" alt="bilalmalik08" /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bilalmalik08&show_icons=true&locale=en" alt="bilalmalik08" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalmalik08&" alt="bilalmalik08" /></p>
+<h3 align="center">GitHub Stats:</h3>
+<div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); max-width: 900px; margin: auto;">
+  <p style="margin: 10px 0;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalmalik08&show_icons=true&locale=en&layout=compact&bg_color=1e1e1e&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Top Languages" style="border-radius: 8px; border: 2px solid #ffffff;"/>
+  </p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalmalik08&" alt="bilalmalik08" /></p>
+  <p style="margin: 10px 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=bilalmalik08&show_icons=true&locale=en&bg_color=1e1e1e&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Profile Stats" style="border-radius: 8px; border: 2px solid #ffffff;"/>
+  </p>
 </div>
+
